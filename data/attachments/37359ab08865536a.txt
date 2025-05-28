@@ -1,0 +1,22 @@
+2025-05-28 21:21:40,820 | INFO | TEST STARTED: test_failed_login_with_invalid_credentials
+2025-05-28 21:21:40,823 | INFO | Starting browser in headless mode
+2025-05-28 21:21:41,571 | INFO | Browser launched
+2025-05-28 21:21:41,597 | INFO | Browser context created
+2025-05-28 21:21:41,700 | INFO | Browser page created
+2025-05-28 21:21:41,708 | INFO | [STEP] Login Screen: Loading Heritage Plus login page
+2025-05-28 21:21:41,710 | INFO | Using regression test page object
+2025-05-28 21:21:46,045 | INFO | Screenshot taken: login_loaded at 21:21:46.045
+2025-05-28 21:21:46,048 | INFO | [STEP] Email Entry: Using email: invalid@example.com
+2025-05-28 21:21:46,049 | INFO | Using regression test page object
+2025-05-28 21:21:46,382 | INFO | Screenshot taken: email_entered at 21:21:46.382
+2025-05-28 21:21:46,385 | INFO | [STEP] Password Entry: Entering password (masked)
+2025-05-28 21:21:46,388 | INFO | Using regression test page object
+2025-05-28 21:21:46,772 | INFO | Screenshot taken: pwd_entered at 21:21:46.772
+2025-05-28 21:21:46,776 | INFO | [STEP] Login Action: Clicking submit button
+2025-05-28 21:21:46,779 | INFO | Using regression test page object
+2025-05-28 21:21:51,137 | INFO | Screenshot taken: clicked_login at 21:21:51.137
+2025-05-28 21:21:51,139 | INFO | Using regression test page object
+2025-05-28 21:21:51,587 | INFO | Test passed
+2025-05-28 21:21:51,718 | INFO | Screenshot taken: final_state_test_failed_login_with_invalid_credentials at 21:21:51.718
+2025-05-28 21:21:51,720 | INFO | Closing browser
+2025-05-28 21:21:51,845 | INFO | TEST FINISHED: test_failed_login_with_invalid_credentials

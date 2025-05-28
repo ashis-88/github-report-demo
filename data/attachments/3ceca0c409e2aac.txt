@@ -1,0 +1,31 @@
+2025-05-28 21:21:23,155 | INFO | TEST STARTED: test_successful_login_with_valid_credentials_1
+2025-05-28 21:21:23,162 | INFO | Starting browser in headless mode
+2025-05-28 21:21:23,813 | INFO | Browser launched
+2025-05-28 21:21:23,841 | INFO | Browser context created
+2025-05-28 21:21:23,948 | INFO | Browser page created
+2025-05-28 21:21:23,961 | INFO | [STEP] Login Screen: Loading Heritage Plus login page
+2025-05-28 21:21:23,963 | INFO | Using regression test page object
+2025-05-28 21:21:31,282 | INFO | Screenshot taken: login_loaded at 21:21:31.282
+2025-05-28 21:21:31,287 | INFO | [STEP] Email Entry: Using email: ashis.chakra@srsdistribution.com
+2025-05-28 21:21:31,290 | INFO | Using regression test page object
+2025-05-28 21:21:31,666 | INFO | Screenshot taken: email_entered at 21:21:31.666
+2025-05-28 21:21:31,670 | INFO | [STEP] Password Entry: Entering password (masked)
+2025-05-28 21:21:31,672 | INFO | Using regression test page object
+2025-05-28 21:21:32,048 | INFO | Screenshot taken: pwd_entered at 21:21:32.048
+2025-05-28 21:21:32,050 | INFO | [STEP] Login Action: Clicking submit button
+2025-05-28 21:21:32,052 | INFO | Using regression test page object
+2025-05-28 21:21:37,632 | INFO | Screenshot taken: clicked_login at 21:21:37.632
+2025-05-28 21:21:37,634 | INFO | [STEP] Login Result: Verifying successful login
+2025-05-28 21:21:37,805 | INFO | Screenshot taken: login_verification_initial at 21:21:37.805
+2025-05-28 21:21:37,807 | INFO | Current URL before waiting: https://mcstaging.heritageplus.com/customer/account/
+2025-05-28 21:21:37,809 | INFO | Waiting for DOM content loaded...
+2025-05-28 21:21:37,824 | INFO | Waiting for network idle state...
+2025-05-28 21:21:39,855 | WARNING | Network idle wait timed out, but continuing: Timeout 2000ms exceeded.
+2025-05-28 21:21:40,531 | INFO | Screenshot taken: login_verification_after_wait at 21:21:40.531
+2025-05-28 21:21:40,532 | INFO | Current URL after waiting: https://mcstaging.heritageplus.com/customer/account/
+2025-05-28 21:21:40,535 | INFO | Successfully logged in - redirected to account page
+2025-05-28 21:21:40,537 | INFO | Login successful
+2025-05-28 21:21:40,546 | INFO | Test passed
+2025-05-28 21:21:40,684 | INFO | Screenshot taken: final_state_test_successful_login_with_valid_credentials_1 at 21:21:40.684
+2025-05-28 21:21:40,686 | INFO | Closing browser
+2025-05-28 21:21:40,795 | INFO | TEST FINISHED: test_successful_login_with_valid_credentials_1

@@ -1,0 +1,22 @@
+[32mINFO    [0m BDD_Framework:logger.py:44 TEST STARTED: test_failed_login_with_invalid_credentials
+[32mINFO    [0m BDD_Framework:logger.py:44 Starting browser in headless mode
+[32mINFO    [0m BDD_Framework:logger.py:44 Browser launched
+[32mINFO    [0m BDD_Framework:logger.py:44 Browser context created
+[32mINFO    [0m BDD_Framework:logger.py:44 Browser page created
+[32mINFO    [0m BDD_Framework:logger.py:94 [STEP] Login Screen: Loading Heritage Plus login page
+[32mINFO    [0m BDD_Framework:logger.py:44 Using regression test page object
+[32mINFO    [0m BDD_Framework:logger.py:107 Screenshot taken: login_loaded at 21:21:46.045
+[32mINFO    [0m BDD_Framework:logger.py:94 [STEP] Email Entry: Using email: invalid@example.com
+[32mINFO    [0m BDD_Framework:logger.py:44 Using regression test page object
+[32mINFO    [0m BDD_Framework:logger.py:107 Screenshot taken: email_entered at 21:21:46.382
+[32mINFO    [0m BDD_Framework:logger.py:94 [STEP] Password Entry: Entering password (masked)
+[32mINFO    [0m BDD_Framework:logger.py:44 Using regression test page object
+[32mINFO    [0m BDD_Framework:logger.py:107 Screenshot taken: pwd_entered at 21:21:46.772
+[32mINFO    [0m BDD_Framework:logger.py:94 [STEP] Login Action: Clicking submit button
+[32mINFO    [0m BDD_Framework:logger.py:44 Using regression test page object
+[32mINFO    [0m BDD_Framework:logger.py:107 Screenshot taken: clicked_login at 21:21:51.137
+[32mINFO    [0m BDD_Framework:logger.py:44 Using regression test page object
+[32mINFO    [0m BDD_Framework:logger.py:44 Test passed
+[32mINFO    [0m BDD_Framework:logger.py:107 Screenshot taken: final_state_test_failed_login_with_invalid_credentials at 21:21:51.718
+[32mINFO    [0m BDD_Framework:logger.py:44 Closing browser
+[32mINFO    [0m BDD_Framework:logger.py:44 TEST FINISHED: test_failed_login_with_invalid_credentials

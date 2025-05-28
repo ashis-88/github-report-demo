@@ -1,0 +1,31 @@
+[32mINFO    [0m BDD_Framework:logger.py:44 TEST STARTED: test_successful_login_with_valid_credentials_1
+[32mINFO    [0m BDD_Framework:logger.py:44 Starting browser in headless mode
+[32mINFO    [0m BDD_Framework:logger.py:44 Browser launched
+[32mINFO    [0m BDD_Framework:logger.py:44 Browser context created
+[32mINFO    [0m BDD_Framework:logger.py:44 Browser page created
+[32mINFO    [0m BDD_Framework:logger.py:94 [STEP] Login Screen: Loading Heritage Plus login page
+[32mINFO    [0m BDD_Framework:logger.py:44 Using regression test page object
+[32mINFO    [0m BDD_Framework:logger.py:107 Screenshot taken: login_loaded at 21:21:31.282
+[32mINFO    [0m BDD_Framework:logger.py:94 [STEP] Email Entry: Using email: ashis.chakra@srsdistribution.com
+[32mINFO    [0m BDD_Framework:logger.py:44 Using regression test page object
+[32mINFO    [0m BDD_Framework:logger.py:107 Screenshot taken: email_entered at 21:21:31.666
+[32mINFO    [0m BDD_Framework:logger.py:94 [STEP] Password Entry: Entering password (masked)
+[32mINFO    [0m BDD_Framework:logger.py:44 Using regression test page object
+[32mINFO    [0m BDD_Framework:logger.py:107 Screenshot taken: pwd_entered at 21:21:32.048
+[32mINFO    [0m BDD_Framework:logger.py:94 [STEP] Login Action: Clicking submit button
+[32mINFO    [0m BDD_Framework:logger.py:44 Using regression test page object
+[32mINFO    [0m BDD_Framework:logger.py:107 Screenshot taken: clicked_login at 21:21:37.632
+[32mINFO    [0m BDD_Framework:logger.py:94 [STEP] Login Result: Verifying successful login
+[32mINFO    [0m BDD_Framework:logger.py:107 Screenshot taken: login_verification_initial at 21:21:37.805
+[32mINFO    [0m BDD_Framework:logger.py:44 Current URL before waiting: https://mcstaging.heritageplus.com/customer/account/
+[32mINFO    [0m BDD_Framework:logger.py:44 Waiting for DOM content loaded...
+[32mINFO    [0m BDD_Framework:logger.py:44 Waiting for network idle state...
+[33mWARNING [0m BDD_Framework:logger.py:64 Network idle wait timed out, but continuing: Timeout 2000ms exceeded.
+[32mINFO    [0m BDD_Framework:logger.py:107 Screenshot taken: login_verification_after_wait at 21:21:40.531
+[32mINFO    [0m BDD_Framework:logger.py:44 Current URL after waiting: https://mcstaging.heritageplus.com/customer/account/
+[32mINFO    [0m BDD_Framework:logger.py:44 Successfully logged in - redirected to account page
+[32mINFO    [0m BDD_Framework:logger.py:44 Login successful
+[32mINFO    [0m BDD_Framework:logger.py:44 Test passed
+[32mINFO    [0m BDD_Framework:logger.py:107 Screenshot taken: final_state_test_successful_login_with_valid_credentials_1 at 21:21:40.684
+[32mINFO    [0m BDD_Framework:logger.py:44 Closing browser
+[32mINFO    [0m BDD_Framework:logger.py:44 TEST FINISHED: test_successful_login_with_valid_credentials_1

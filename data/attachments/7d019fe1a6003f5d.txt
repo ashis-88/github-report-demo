@@ -1,0 +1,15 @@
+[32mINFO    [0m BDD_Framework:logger.py:44 TEST STARTED: test_login_with_empty_fields
+[32mINFO    [0m BDD_Framework:logger.py:44 Starting browser in headless mode
+[32mINFO    [0m BDD_Framework:logger.py:44 Browser launched
+[32mINFO    [0m BDD_Framework:logger.py:44 Browser context created
+[32mINFO    [0m BDD_Framework:logger.py:44 Browser page created
+[32mINFO    [0m BDD_Framework:logger.py:94 [STEP] Login Screen: Loading Heritage Plus login page
+[32mINFO    [0m BDD_Framework:logger.py:44 Using regression test page object
+[32mINFO    [0m BDD_Framework:logger.py:107 Screenshot taken: login_loaded at 21:21:56.637
+[32mINFO    [0m BDD_Framework:logger.py:94 [STEP] Login Action: Clicking submit button
+[32mINFO    [0m BDD_Framework:logger.py:44 Using regression test page object
+[32mINFO    [0m BDD_Framework:logger.py:107 Screenshot taken: clicked_login at 21:22:12.933
+[32mINFO    [0m BDD_Framework:logger.py:44 Using regression test page object
+[32mINFO    [0m BDD_Framework:logger.py:44 Test failed
+[32mINFO    [0m BDD_Framework:logger.py:44 Closing browser
+[32mINFO    [0m BDD_Framework:logger.py:44 TEST FINISHED: test_login_with_empty_fields
