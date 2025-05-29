@@ -1,0 +1,4 @@
+Navigation issue: Timeout 15000ms exceeded.
+=========================== logs ===========================
+waiting for navigation until 'domcontentloaded'
+============================================================

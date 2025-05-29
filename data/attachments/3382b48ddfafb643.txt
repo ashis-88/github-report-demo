@@ -1,0 +1,10 @@
+[32mINFO    [0m BDD_Framework:logger.py:44 TEST STARTED: test_successful_login_with_valid_credentials_1
+[32mINFO    [0m BDD_Framework:logger.py:44 Starting browser in headless mode
+[32mINFO    [0m BDD_Framework:logger.py:44 Browser launched
+[32mINFO    [0m BDD_Framework:logger.py:44 Browser context created
+[32mINFO    [0m BDD_Framework:logger.py:44 Browser page created
+[32mINFO    [0m BDD_Framework:logger.py:94 [STEP] Login Screen: Loading Heritage Plus login page
+[32mINFO    [0m BDD_Framework:logger.py:44 Using regression test page object
+[32mINFO    [0m BDD_Framework:logger.py:44 Test failed
+[32mINFO    [0m BDD_Framework:logger.py:44 Closing browser
+[32mINFO    [0m BDD_Framework:logger.py:44 TEST FINISHED: test_successful_login_with_valid_credentials_1

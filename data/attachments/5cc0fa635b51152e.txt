@@ -1,0 +1,1 @@
+TEST FINISHED: test_login_with_empty_fields

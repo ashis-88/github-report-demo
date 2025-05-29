@@ -1,0 +1,15 @@
+2025-05-29 10:26:18,238 | INFO | TEST STARTED: test_login_with_empty_fields
+2025-05-29 10:26:18,243 | INFO | Starting browser in headless mode
+2025-05-29 10:26:19,291 | INFO | Browser launched
+2025-05-29 10:26:19,317 | INFO | Browser context created
+2025-05-29 10:26:19,461 | INFO | Browser page created
+2025-05-29 10:26:19,474 | INFO | [STEP] Login Screen: Loading Heritage Plus login page
+2025-05-29 10:26:19,476 | INFO | Using regression test page object
+2025-05-29 10:26:23,327 | INFO | Screenshot taken: login_loaded at 10:26:23.327
+2025-05-29 10:26:23,331 | INFO | [STEP] Login Action: Clicking submit button
+2025-05-29 10:26:23,332 | INFO | Using regression test page object
+2025-05-29 10:26:39,898 | INFO | Screenshot taken: clicked_login at 10:26:39.898
+2025-05-29 10:26:39,901 | INFO | Using regression test page object
+2025-05-29 10:26:40,301 | INFO | Test failed
+2025-05-29 10:26:40,304 | INFO | Closing browser
+2025-05-29 10:26:40,457 | INFO | TEST FINISHED: test_login_with_empty_fields
